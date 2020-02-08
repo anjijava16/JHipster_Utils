@@ -1,183 +1,183 @@
 C:\JHipster\myApp>jHipster
-INFO! Using JHipster version installed globally
-INFO! Running default command
-INFO! Executing jhipster:app
-INFO! Options: from-cli: true
-
-
-        ██╗ ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
-        ██║ ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
-        ██║ ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
-  ██╗   ██║ ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
-  ╚██████╔╝ ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
-   ╚═════╝  ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
-
-                            https://www.jhipster.tech
-
-Welcome to JHipster v6.7.0
-Application files will be generated in folder: C:\JHipster\myApp
- _______________________________________________________________________________________________________________
-
-  Documentation for creating an application is at https://www.jhipster.tech/creating-an-app/
-  If you find JHipster useful, consider sponsoring the project at https://opencollective.com/generator-jhipster
- _______________________________________________________________________________________________________________
-
-? May JHipster anonymously report usage statistics to improve the tool over time? (Y/n)
-C:\JHipster\myApp>
-
-C:\JHipster\myApp>yo
-'yo' is not recognized as an internal or external command,
-operable program or batch file.
-
-C:\JHipster\myApp>jHipster
-INFO! Using JHipster version installed globally
-INFO! Running default command
-INFO! Executing jhipster:app
-INFO! Options: from-cli: true
-
-
-        ██╗ ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
-        ██║ ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
-        ██║ ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
-  ██╗   ██║ ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
-  ╚██████╔╝ ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
-   ╚═════╝  ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
-
-                            https://www.jhipster.tech
-
-Welcome to JHipster v6.7.0
-Application files will be generated in folder: C:\JHipster\myApp
- _______________________________________________________________________________________________________________
-
-  Documentation for creating an application is at https://www.jhipster.tech/creating-an-app/
-  If you find JHipster useful, consider sponsoring the project at https://opencollective.com/generator-jhipster
- _______________________________________________________________________________________________________________
-
-? May JHipster anonymously report usage statistics to improve the tool over time? No
-? Which *type* of application would you like to create? Monolithic application (recommended for simple projects)
-? [Alpha] Do you want to make it reactive with Spring WebFlux? (y/N)
-C:\JHipster\myApp>
-
-C:\JHipster\myApp>
-
-C:\JHipster\myApp>jHipster
-INFO! Using JHipster version installed globally
-INFO! Running default command
-INFO! Executing jhipster:app
-INFO! Options: from-cli: true
-
-
-        ██╗ ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
-        ██║ ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
-        ██║ ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
-  ██╗   ██║ ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
-  ╚██████╔╝ ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
-   ╚═════╝  ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
-
-                            https://www.jhipster.tech
-
-Welcome to JHipster v6.7.0
-Application files will be generated in folder: C:\JHipster\myApp
- _______________________________________________________________________________________________________________
-
-  Documentation for creating an application is at https://www.jhipster.tech/creating-an-app/
-  If you find JHipster useful, consider sponsoring the project at https://opencollective.com/generator-jhipster
- _______________________________________________________________________________________________________________
-
-? Which *type* of application would you like to create? Monolithic application (recommended for simple projects)
-? [Alpha] Do you want to make it reactive with Spring WebFlux? No
-? What is the base name of your application? mmtechsoftjhipster
-? What is your default Java package name? com.mmtech.jhipster
-? Do you want to use the JHipster Registry to configure, monitor and scale your application? Yes
-? Which *type* of database would you like to use? SQL (H2, MySQL, MariaDB, PostgreSQL, Oracle, MSSQL)
-? Which *production* database would you like to use? MariaDB
-? Which *development* database would you like to use? MariaDB
-? Do you want to use the Spring cache abstraction? Yes, with the Ehcache implementation (local cache, for a single node)
-? Do you want to use Hibernate 2nd level cache? Yes
-? Would you like to use Maven or Gradle for building the backend? Maven
-? Which other technologies would you like to use? (Press <space> to select, <a> to toggle all, <i> to invert selection)
-? Which *Framework* would you like to use for the client? Angular
-? Would you like to use a Bootswatch theme (https://bootswatch.com/)? Default JHipster
-? Would you like to enable internationalization support? Yes
-? Please choose the native language of the application English
-? Please choose additional languages to install (Press <space> to select, <a> to toggle all, <i> to invert selection)
-? Besides JUnit and Jest, which testing frameworks would you like to use? (Press <space> to select, <a> to toggle all, <i> to invert selection)
-? Would you like to install other generators from the JHipster Marketplace? No
-
-Installing languages: en
-Git repository initialized.
-
-KeyStore 'src/main/resources/config/tls/keystore.p12' generated successfully.
-
-   create .prettierrc
-   create .prettierignore
-   create src\main\jib\entrypoint.sh
-   create checkstyle.xml
-   create mvnw
-   create mvnw.cmd
-   create .mvn\wrapper\maven-wrapper.jar
-   create .mvn\wrapper\maven-wrapper.properties
-   create .mvn\wrapper\MavenWrapperDownloader.java
-   create pom.xml
-   create src\main\resources\banner.txt
-   create src\main\resources\templates\error.html
-   create src\main\resources\logback-spring.xml
-   create src\main\resources\i18n\messages.properties
-   create src\main\resources\config\liquibase\changelog\00000000000000_initial_schema.xml
-   create src\main\resources\config\liquibase\master.xml
-   create src\main\java\com\mmtech\jhipster\security\SpringSecurityAuditorAware.java
-   create src\main\java\com\mmtech\jhipster\security\SecurityUtils.java
-   create src\main\java\com\mmtech\jhipster\security\AuthoritiesConstants.java
-   create src\main\java\com\mmtech\jhipster\security\package-info.java
-   create src\test\java\com\mmtech\jhipster\security\SecurityUtilsUnitTest.java
-   create src\main\java\com\mmtech\jhipster\security\jwt\TokenProvider.java
-   create src\main\java\com\mmtech\jhipster\security\jwt\JWTFilter.java
-   create src\main\java\com\mmtech\jhipster\security\jwt\JWTConfigurer.java
-   create src\main\java\com\mmtech\jhipster\config\SecurityConfiguration.java
-   create src\main\java\com\mmtech\jhipster\security\DomainUserDetailsService.java
-   create src\main\java\com\mmtech\jhipster\security\UserNotActivatedException.java
-   create src\main\java\com\mmtech\jhipster\web\rest\vm\LoginVM.java
-   create src\main\java\com\mmtech\jhipster\web\rest\UserJWTController.java
-   create src\main\java\com\mmtech\jhipster\MmtechsoftjhipsterApp.java
-   create src\main\java\com\mmtech\jhipster\ApplicationWebXml.java
-   create src\test\java\com\mmtech\jhipster\ArchTest.java
-   create src\main\java\com\mmtech\jhipster\aop\logging\LoggingAspect.java
-   create src\main\java\com\mmtech\jhipster\config\package-info.java
-   create src\main\java\com\mmtech\jhipster\config\AsyncConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\DateTimeFormatConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\LoggingConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\ApplicationProperties.java
-   create src\main\java\com\mmtech\jhipster\config\JacksonConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\LocaleConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\LoggingAspectConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\WebConfigurer.java
-   create src\main\java\com\mmtech\jhipster\config\Constants.java
-   create src\main\java\com\mmtech\jhipster\config\CacheConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\CloudDatabaseConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\DatabaseConfiguration.java
-   create src\main\java\com\mmtech\jhipster\config\audit\package-info.java
-   create src\main\java\com\mmtech\jhipster\config\audit\AuditEventConverter.java
-   create src\main\java\com\mmtech\jhipster\config\LiquibaseConfiguration.java
-   create src\main\java\com\mmtech\jhipster\domain\package-info.java
-   create src\main\java\com\mmtech\jhipster\domain\AbstractAuditingEntity.java
-   create src\main\java\com\mmtech\jhipster\domain\PersistentAuditEvent.java
-   create src\main\java\com\mmtech\jhipster\repository\package-info.java
-   create src\main\java\com\mmtech\jhipster\service\EmailAlreadyUsedException.java
-   create src\main\java\com\mmtech\jhipster\service\InvalidPasswordException.java
-   create src\main\java\com\mmtech\jhipster\service\UsernameAlreadyUsedException.java
-   create src\main\java\com\mmtech\jhipster\service\package-info.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\package-info.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\BadRequestAlertException.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\ErrorConstants.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\ExceptionTranslator.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\FieldErrorVM.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\EmailAlreadyUsedException.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\InvalidPasswordException.java
-   create src\main\java\com\mmtech\jhipster\web\rest\errors\LoginAlreadyUsedException.java
-   create src\main\java\com\mmtech\jhipster\web\rest\vm\package-info.java
-   create src\main\java\com\mmtech\jhipster\web\rest\package-info.java
-   create src\main\java\com\mmtech\jhipster\web\rest\ClientForwardController.java
-   create src\test\java\com\mmtech\jhipster\web\rest\TestUtil.java
+    INFO! Using JHipster version installed globally
+    INFO! Running default command
+    INFO! Executing jhipster:app
+    INFO! Options: from-cli: true
+    
+    
+            ██╗ ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
+            ██║ ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
+            ██║ ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
+      ██╗   ██║ ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
+      ╚██████╔╝ ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
+       ╚═════╝  ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
+    
+                                https://www.jhipster.tech
+    
+    Welcome to JHipster v6.7.0
+    Application files will be generated in folder: C:\JHipster\myApp
+     _______________________________________________________________________________________________________________
+    
+      Documentation for creating an application is at https://www.jhipster.tech/creating-an-app/
+      If you find JHipster useful, consider sponsoring the project at https://opencollective.com/generator-jhipster
+     _______________________________________________________________________________________________________________
+    
+    ? May JHipster anonymously report usage statistics to improve the tool over time? (Y/n)
+    C:\JHipster\myApp>
+    
+    C:\JHipster\myApp>yo
+    'yo' is not recognized as an internal or external command,
+    operable program or batch file.
+    
+    C:\JHipster\myApp>jHipster
+    INFO! Using JHipster version installed globally
+    INFO! Running default command
+    INFO! Executing jhipster:app
+    INFO! Options: from-cli: true
+    
+    
+            ██╗ ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
+            ██║ ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
+            ██║ ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
+      ██╗   ██║ ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
+      ╚██████╔╝ ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
+       ╚═════╝  ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
+    
+                                https://www.jhipster.tech
+    
+    Welcome to JHipster v6.7.0
+    Application files will be generated in folder: C:\JHipster\myApp
+     _______________________________________________________________________________________________________________
+    
+      Documentation for creating an application is at https://www.jhipster.tech/creating-an-app/
+      If you find JHipster useful, consider sponsoring the project at https://opencollective.com/generator-jhipster
+     _______________________________________________________________________________________________________________
+    
+    ? May JHipster anonymously report usage statistics to improve the tool over time? No
+    ? Which *type* of application would you like to create? Monolithic application (recommended for simple projects)
+    ? [Alpha] Do you want to make it reactive with Spring WebFlux? (y/N)
+    C:\JHipster\myApp>
+    
+    C:\JHipster\myApp>
+    
+    C:\JHipster\myApp>jHipster
+    INFO! Using JHipster version installed globally
+    INFO! Running default command
+    INFO! Executing jhipster:app
+    INFO! Options: from-cli: true
+    
+    
+            ██╗ ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
+            ██║ ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
+            ██║ ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
+      ██╗   ██║ ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
+      ╚██████╔╝ ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
+       ╚═════╝  ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
+    
+                                https://www.jhipster.tech
+    
+    Welcome to JHipster v6.7.0
+    Application files will be generated in folder: C:\JHipster\myApp
+     _______________________________________________________________________________________________________________
+    
+      Documentation for creating an application is at https://www.jhipster.tech/creating-an-app/
+      If you find JHipster useful, consider sponsoring the project at https://opencollective.com/generator-jhipster
+     _______________________________________________________________________________________________________________
+    
+    ? Which *type* of application would you like to create? Monolithic application (recommended for simple projects)
+    ? [Alpha] Do you want to make it reactive with Spring WebFlux? No
+    ? What is the base name of your application? mmtechsoftjhipster
+    ? What is your default Java package name? com.mmtech.jhipster
+    ? Do you want to use the JHipster Registry to configure, monitor and scale your application? Yes
+    ? Which *type* of database would you like to use? SQL (H2, MySQL, MariaDB, PostgreSQL, Oracle, MSSQL)
+    ? Which *production* database would you like to use? MariaDB
+    ? Which *development* database would you like to use? MariaDB
+    ? Do you want to use the Spring cache abstraction? Yes, with the Ehcache implementation (local cache, for a single node)
+    ? Do you want to use Hibernate 2nd level cache? Yes
+    ? Would you like to use Maven or Gradle for building the backend? Maven
+    ? Which other technologies would you like to use? (Press <space> to select, <a> to toggle all, <i> to invert selection)
+    ? Which *Framework* would you like to use for the client? Angular
+    ? Would you like to use a Bootswatch theme (https://bootswatch.com/)? Default JHipster
+    ? Would you like to enable internationalization support? Yes
+    ? Please choose the native language of the application English
+    ? Please choose additional languages to install (Press <space> to select, <a> to toggle all, <i> to invert selection)
+    ? Besides JUnit and Jest, which testing frameworks would you like to use? (Press <space> to select, <a> to toggle all, <i> to invert selection)
+    ? Would you like to install other generators from the JHipster Marketplace? No
+    
+    Installing languages: en
+    Git repository initialized.
+    
+    KeyStore 'src/main/resources/config/tls/keystore.p12' generated successfully.
+    
+       create .prettierrc
+       create .prettierignore
+       create src\main\jib\entrypoint.sh
+       create checkstyle.xml
+       create mvnw
+       create mvnw.cmd
+       create .mvn\wrapper\maven-wrapper.jar
+       create .mvn\wrapper\maven-wrapper.properties
+       create .mvn\wrapper\MavenWrapperDownloader.java
+       create pom.xml
+       create src\main\resources\banner.txt
+       create src\main\resources\templates\error.html
+       create src\main\resources\logback-spring.xml
+       create src\main\resources\i18n\messages.properties
+       create src\main\resources\config\liquibase\changelog\00000000000000_initial_schema.xml
+       create src\main\resources\config\liquibase\master.xml
+       create src\main\java\com\mmtech\jhipster\security\SpringSecurityAuditorAware.java
+       create src\main\java\com\mmtech\jhipster\security\SecurityUtils.java
+       create src\main\java\com\mmtech\jhipster\security\AuthoritiesConstants.java
+       create src\main\java\com\mmtech\jhipster\security\package-info.java
+       create src\test\java\com\mmtech\jhipster\security\SecurityUtilsUnitTest.java
+       create src\main\java\com\mmtech\jhipster\security\jwt\TokenProvider.java
+       create src\main\java\com\mmtech\jhipster\security\jwt\JWTFilter.java
+       create src\main\java\com\mmtech\jhipster\security\jwt\JWTConfigurer.java
+       create src\main\java\com\mmtech\jhipster\config\SecurityConfiguration.java
+       create src\main\java\com\mmtech\jhipster\security\DomainUserDetailsService.java
+       create src\main\java\com\mmtech\jhipster\security\UserNotActivatedException.java
+       create src\main\java\com\mmtech\jhipster\web\rest\vm\LoginVM.java
+       create src\main\java\com\mmtech\jhipster\web\rest\UserJWTController.java
+       create src\main\java\com\mmtech\jhipster\MmtechsoftjhipsterApp.java
+       create src\main\java\com\mmtech\jhipster\ApplicationWebXml.java
+       create src\test\java\com\mmtech\jhipster\ArchTest.java
+       create src\main\java\com\mmtech\jhipster\aop\logging\LoggingAspect.java
+       create src\main\java\com\mmtech\jhipster\config\package-info.java
+       create src\main\java\com\mmtech\jhipster\config\AsyncConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\DateTimeFormatConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\LoggingConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\ApplicationProperties.java
+       create src\main\java\com\mmtech\jhipster\config\JacksonConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\LocaleConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\LoggingAspectConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\WebConfigurer.java
+       create src\main\java\com\mmtech\jhipster\config\Constants.java
+       create src\main\java\com\mmtech\jhipster\config\CacheConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\CloudDatabaseConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\DatabaseConfiguration.java
+       create src\main\java\com\mmtech\jhipster\config\audit\package-info.java
+       create src\main\java\com\mmtech\jhipster\config\audit\AuditEventConverter.java
+       create src\main\java\com\mmtech\jhipster\config\LiquibaseConfiguration.java
+       create src\main\java\com\mmtech\jhipster\domain\package-info.java
+       create src\main\java\com\mmtech\jhipster\domain\AbstractAuditingEntity.java
+       create src\main\java\com\mmtech\jhipster\domain\PersistentAuditEvent.java
+       create src\main\java\com\mmtech\jhipster\repository\package-info.java
+       create src\main\java\com\mmtech\jhipster\service\EmailAlreadyUsedException.java
+       create src\main\java\com\mmtech\jhipster\service\InvalidPasswordException.java
+       create src\main\java\com\mmtech\jhipster\service\UsernameAlreadyUsedException.java
+       create src\main\java\com\mmtech\jhipster\service\package-info.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\package-info.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\BadRequestAlertException.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\ErrorConstants.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\ExceptionTranslator.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\FieldErrorVM.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\EmailAlreadyUsedException.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\InvalidPasswordException.java
+       create src\main\java\com\mmtech\jhipster\web\rest\errors\LoginAlreadyUsedException.java
+       create src\main\java\com\mmtech\jhipster\web\rest\vm\package-info.java
+       create src\main\java\com\mmtech\jhipster\web\rest\package-info.java
+       create src\main\java\com\mmtech\jhipster\web\rest\ClientForwardController.java
+       create src\test\java\com\mmtech\jhipster\web\rest\TestUtil.java
    create src\test\java\com\mmtech\jhipster\web\rest\errors\ExceptionTranslatorIT.java
    create src\test\java\com\mmtech\jhipster\web\rest\errors\ExceptionTranslatorTestController.java
    create src\test\java\com\mmtech\jhipster\web\rest\ClientForwardControllerTest.java
