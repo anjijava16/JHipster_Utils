@@ -198,6 +198,11 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [definitelytyped]: https://definitelytyped.org/
 
 
+https://dzone.com/articles/getting-started-with-jhipster-part-i
+https://dzone.com/articles/getting-started-with-jhipster-part-ii
+https://dzone.com/articles/getting-started-with-jhipster-part-iii
+
+
 # What is JHipster?
     Together with a handful of other developers, Julien Dubois started the JHipster (short for “Java Hipster”) website. The name stood primarily for the concept of a website generator, since JHipster is meant to unite Java with other web development tools. Today, the Framework collection targets the enterprise sector in particular, with a focus on enabling high productivity during the development process as well as high-quality, application development. A team of more than 15 core developers and hundreds of contributors are responsible for continuous further development. The JHipster code, which is distributed with the Apache 2.0 license, is freely available to anyone on GitHub.
 
