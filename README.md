@@ -198,6 +198,43 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [definitelytyped]: https://definitelytyped.org/
 
 
+# What is JHipster?
+    Together with a handful of other developers, Julien Dubois started the JHipster (short for “Java Hipster”) website. The name stood primarily for the concept of a website generator, since JHipster is meant to unite Java with other web development tools. Today, the Framework collection targets the enterprise sector in particular, with a focus on enabling high productivity during the development process as well as high-quality, application development. A team of more than 15 core developers and hundreds of contributors are responsible for continuous further development. The JHipster code, which is distributed with the Apache 2.0 license, is freely available to anyone on GitHub.
+
+# An overview of JHipster’s components
+    JHipster provides solutions for creating and designing on the front end, as well as the necessary tools for back end development. For example, Spring Boot provides the perfect basis for generating a robust Java stack on the server side, which can then be easily connected to various databases, virtualization engines, and monitoring tools, and is linked to the front end through the REST interface. Among others, JHipster supports the following server-side options:
+
+# Applications using Jhipster 
+    Databanks: MariaDB, PostgreSQL, Oracle, MySQL, MongoDB
+    Virtualization: Docker, Kubernetes, AWS
+    Testing environment: Karma, Cucumber
+    Indexing: ElasticSearch
+    Caching: Ehcache, Infinispan
+    Monitoring: Prometheus
+    
+
+# Quick start
+First of all, create an empty directory in which you will create your application:
+mkdir myapplication
+Go to that directory:
+cd myapplication/
+
+To generate your application, type:
+
+# jhipster
+    Answer the questions asked by the generator to create an application tailored to your needs. Those options are described in the next section.
+    Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
+    Note if you are using Maven and changed front end files after first run of the ./mvnw command then you must run ./mvnw -Pwebpack to see the latest front end version (Gradle detects front end changes automatically and recompiles front end if needed).
+    The application will be available on http://localhost:8080
+# jhipster types 
+    Monolithic application: this a classical, one-size-fits-all application. It’s easier to use and develop, and is our recommended default.
+    Microservice application: in a microservices architecture, this is one of the services.
+    Microservice gateway: in a microservices architecture, this is an edge server that routes and secures requests.
+    JHipster UAA server: in a microservices architecture, this is an OAuth2 authentication server that secures microservices. Refer to the JHipster UAA documentation for more information.
+    What is the base name of your application?
+    This is the name of your application.
+
+
 
 C:\JHipster\myApp>jHipster
     INFO! Using JHipster version installed globally
